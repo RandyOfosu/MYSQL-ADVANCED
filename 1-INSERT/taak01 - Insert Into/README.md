@@ -3,6 +3,8 @@
 ## Gegevens toevoegen in de database
 
 
+
+
 ## Uitleg
 
 Zoals je met een `SELECT` statement gegevens uit een database kunt halen, kun je met `INSERT INTO` gegevens invoeren. Het toevoegen van gegevens gaat per rij / record en één voor één. Je gebruikt hiervoor dan ook geen condities (`WHERE`).
