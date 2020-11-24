@@ -1,1 +1,6 @@
-
+INSERT INTO studenten (student_id, voornaam, achternaam, klas, geboortedatum, woonplaats) VALUES ('5', 'Taxi', 'Tarik', '9A', '2000-03-01', 'Weesp')
+INSERT INTO studenten (student_id, voornaam, achternaam, klas, geboortedatum, woonplaats) VALUES ('5', 'Taxi', 'Tarik', '9A', '2000-03-01', 'Weesp')
+INSERT INTO studenten (student_id, voornaam, achternaam, klas, geboortedatum, woonplaats) VALUES ('5', 'Taxi', 'Tarik', '9A', '2000-03-01', 'Weesp')
+INSERT INTO studenten (student_id, voornaam, achternaam, klas, geboortedatum, woonplaats) VALUES ('5', 'Taxi', 'Tarik', '9A', '2000-03-01', 'Weesp')
+INSERT INTO studenten (student_id, voornaam, achternaam, klas, geboortedatum, woonplaats) VALUES ('5', 'Taxi', 'Tarik', '9A', '2000-03-01', 'Weesp')
+INSERT INTO studenten (student_id, voornaam, achternaam, klas, geboortedatum, woonplaats) VALUES ('5', 'Taxi', 'Tarik', '9A', '2000-03-01', 'Weesp')
